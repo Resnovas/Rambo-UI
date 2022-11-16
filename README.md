@@ -1,8 +1,16 @@
+<div align="center">
+
+![Rambo UI Logo](./assets/1x/Rambo%20Ui%20Primary.png)
+
+</div>
+
 # Overview
 
-Rambo UI, a Next generation material UI solution With bit.dev powering our development workflow, we offer each component individually or all of them as a single package depending on your requirements.
+Rambo UI, a Next generation material UI solution, we offer 2kb individually packed components or frameworks which contain everything!
 
 ### Platform Frameworks
+
+`<Comming Soon>`
 
 ### Manifesto
 
@@ -22,9 +30,20 @@ A Component...
 
 ## Getting started
 
+### Individual Components 
+Bit.dev allows us to publish individual components unpackaged as small as 2kb! So now you can choose to include just that which you need.
 
-### Demos
+1. Find the component below which you want to include
+2. `yarn add @resnovas/rambo-<component.name>` or `npm install @resnovas/rambo-<component.name>`
+3. Use the component as specified in the `.mdx` file or readme for the framework
 
+### Full Framework in chosen language - Builder IO, React, Angular, Svelte, Vue, swift, liquid or plain HTML
+
+
+2. `yarn add @resnovas/rambo-<chosen.language>` or `npm install @resnovas/rambo-<chosen.language>`
+3. Use the component as specified in the `.mdx` file or readme for the framework
+
+## Demos
 
 ### Components
 
