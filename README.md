@@ -37,15 +37,22 @@ Bit.dev allows us to publish individual components unpackaged as small as 2kb! S
 2. `yarn add @resnovas/rambo-<component.name>` or `npm install @resnovas/rambo-<component.name>`
 3. Use the component as specified in the `.mdx` file or readme for the framework
 
+For more information, see the components links in [#Components](#Components)
+
 ### Full Framework in chosen language - Builder IO, React, Angular, Svelte, Vue, swift, liquid or plain HTML
 
+1. `yarn add @resnovas/rambo-<chosen.language>` or `npm install @resnovas/rambo-<chosen.language>`
+2. Use the component as specified in the `.mdx` file or readme for the framework
 
-2. `yarn add @resnovas/rambo-<chosen.language>` or `npm install @resnovas/rambo-<chosen.language>`
-3. Use the component as specified in the `.mdx` file or readme for the framework
+For more information, see the framework component links in [#Platform Frameworks](#Platform Frameworks)
 
 ## Demos
 
+`<Comming Soon>`
+
 ### Components
+
+`<Comming Soon>`
 
 ## Contributing
 
