@@ -71,3 +71,11 @@ We utilise bit.dev to develop Rambo UI, we understand that contributing with thi
 ### To get started within your project workspace:
 
 We believe collaberation shouldn't be restricted. You are free to work on our components wherever you like, or even copy our components into your own project and modify them to better work for you. Thankfully Bit cli provides this functionality for you.
+
+
+## Miscellaneous
+
+### Why a Chicken?!
+TLDR: A relic from my streaming days continued forward to bring new life to the character and remind me of the community which supported my personal growth and development.
+
+Back in 2020, the world had a bit of a hickup, and well, we all got a lot of time placed in our hands. During this time I did a considerable amount of streaming to pass the time around university and work. I had built myself a small community which tuned in for whatever reason. Around easter 2020 I started appearing on stream with a chicken on my microphone stand, and the community quickly critosized the fact I hadn't named it. After some debating, the name "Rambo" was chosen, and community artwork was created. I wanted to include a throwback to the old streaming community in my latest project, and felt that adapting this character was the coolest way to do it. 
